@@ -1,5 +1,5 @@
 # Automated Testing with Selenium
-To develop automated test scripts using Selenium for testing web application functionalities, execute these scripts, and generate comprehensive test reports.
+To develop automated test scripts using Selenium for testing web application functionalities, execute these scripts, and generate comprehensive test reports for the website https://demo.opencart.com
 ## Table of contents
 - Prereqisites
 - Environment setup
